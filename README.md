@@ -1,4 +1,4 @@
-# EXP04 Simple Image Map using HTML & CSS
+# EX04 Simple Image Map using HTML & CSS
 ### DATE : 25/09/25
 
 ## AIM
@@ -96,6 +96,7 @@ Register No. :  212223230108
 
 ## RESULT
 Thus a fully functional and simple **interactive image map** webpage is created using only **HTML and CSS**.
+
 
 
 
