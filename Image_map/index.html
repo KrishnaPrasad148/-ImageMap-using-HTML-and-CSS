@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple Image Map</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Simple Image Map</h1>
+<p>Click any part of the image to see what area you clicked.</p>
+
+<img src="https://images.unsplash.com/photo-1497752531616-c3afd9760a11?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" usemap="#simplemap" class="map-img">
+
+<map name="simplemap">
+  <!-- Left Area -->
+  <area shape="rect" coords="0,0,200,300" href="#left" alt="Left Area">
+  <!-- Middle Area -->
+  <area shape="rect" coords="200,0,400,300" href="#middle" alt="Middle Area">
+  <!-- Right Area -->
+  <area shape="rect" coords="400,0,600,300" href="#right" alt="Right Area">
+</map>
+
+<div id="left" class="box">You clicked the LEFT area.</div>
+<div id="middle" class="box">You clicked the MIDDLE area.</div>
+<div id="right" class="box">You clicked the RIGHT area.</div>
+
+</body>
+</html>
