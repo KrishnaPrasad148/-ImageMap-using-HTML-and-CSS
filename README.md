@@ -1,4 +1,4 @@
-# EXP04 Simple Image Map using HTML & CSS
+<img width="1919" height="920" alt="rght" src="https://github.com/user-attachments/assets/96c1ab48-17a9-4fff-8512-479678e76519" /># EXP04 Simple Image Map using HTML & CSS
 
 ### DATE : 25/09/25
 
@@ -90,9 +90,13 @@ Register No. :  212223230108
 
 
 ## OUTPUT
+<img width="1919" height="914" alt="left" src="https://github.com/user-attachments/assets/07464b97-2b46-4b63-827b-46a2ccfd122a" />
+<img width="1919" height="914" alt="md" src="https://github.com/user-attachments/assets/c3f67093-d284-4989-a8c1-9fcd94ea098d" />
+<img width="1919" height="920" alt="rght" src="https://github.com/user-attachments/assets/61bef3b9-60b5-47a9-9653-f7426ebd51fd" />
 
 
 ## RESULT
 Thus a fully functional and simple **interactive image map** webpage is created using only **HTML and CSS**.
 
----
+
+
